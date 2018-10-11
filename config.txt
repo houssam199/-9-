@@ -1,5 +1,5 @@
 token=NDk5NTAyMTIyNDU1MjY5NDA2.Dp9NLQ.LBKTfNXASWK5V1QWKkNg2D9yjnk
-owner=464046823162511400
+owner=248477916810313729
 prefix=fa
 game=Tybe fahelp
 stayinchannel=true
